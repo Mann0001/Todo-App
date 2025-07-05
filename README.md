@@ -52,9 +52,3 @@ You have two options to run the project:
 - Delete Todos  
 - Fully responsive layout  
 
----
-
-## 👨‍💻 Developed By
-
-**Manmeet Singh**  
-GitHub: [@Mann0001](https://github.com/Mann0001)
