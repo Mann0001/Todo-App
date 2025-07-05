@@ -13,10 +13,10 @@ export default function Header({title = "title goes here"}) {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+                            <Link className="nav-link active px-4" aria-current="page" to="/"><strong>Home</strong></Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/about">About</Link>
+                            <Link className="nav-link px-4" to="/about"><strong >About</strong></Link>
                         </li>
                     </ul>
                     
