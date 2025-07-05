@@ -1,9 +1,12 @@
 import React from 'react';
 
 export const About = () => {
-    
+    let myStyle = {
+        minHeight: "70vh"
+    }
+
     return (
-        <div className="mt-2">
+        <div className="mt-2" style={myStyle}>
             <div className="p-2">
                 <h2 className="mb-3 text-primary">About This App</h2>
                 <p className="lead">
