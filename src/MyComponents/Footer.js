@@ -11,7 +11,7 @@ export const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          todos.com
+          todos.com <i className="bi bi-github" style={{ fontSize: "0.9rem" }}></i>
         </a>
       </p>
     </footer>
