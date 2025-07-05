@@ -6,7 +6,7 @@ export const Footer = () => {
       <p className="text-center mb-0">
         © {new Date().getFullYear()} Manmeet •{" "}
         <a
-          href="https://manmeet.todos.com"
+          href="https://github.com/Mann0001/Todo-App"
           className="text-decoration-none text-light"
           target="_blank"
           rel="noopener noreferrer"
