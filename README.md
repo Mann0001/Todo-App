@@ -41,7 +41,7 @@ You have two options to run the project:
 ### ✅ Option 2: View the Live App
 
 - Visit the deployed version here:  
-  🔗 [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+  🔗 [Live Link](https://todo-app-mann.vercel.app/)
 
 ---
 
